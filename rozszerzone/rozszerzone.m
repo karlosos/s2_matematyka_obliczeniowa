@@ -11,7 +11,7 @@ clear all
 close all
 
 % Okreœlenie pliku wejœciowego
-filename = 'torus.stl';
+filename = 'gearwheel.stl';
 
 % [F,V,N] = STLREAD(FILENAME) also returns the face normal vectors.
 % Wykorzystywane do okreœlenia granic dla Monte carlo
